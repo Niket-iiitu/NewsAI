@@ -34,15 +34,9 @@ const App = () => {
 
   return (
     <div>
-      <h1
-        className={classes.logoContainer}
-        style={{
-          backgroundImage:
-            "url(https://github.com/Niket-iiitu/NewsAI/blob/main/public/images/LogoWallpaper.jpg)",
-        }}
-      >
-        News AI
-      </h1>
+      <div className={classes.logoDiv}>
+        <h1 className={classes.logoContainer}>News AI</h1>
+      </div>
       <NewsCard articles={newsArticles} activeArticle={activeArticle} />
       <div>
         <p>

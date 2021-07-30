@@ -58,14 +58,12 @@ export default makeStyles((theme) => ({
     display: "flex",
     justifyContent: "space-around",
     alignItems: "center",
-    marginLeft: "5vw",
     borderRadius: "10px",
-    width: "90vw",
+    width: "100%",
     [theme.breakpoints.down("sm")]: {
       flexDirection: "column-reverse",
       textAlign: "center",
     },
-    backgroundSize: "cover",
     color: "white",
     height: "20vh",
     fontSize: "5vh",
@@ -78,5 +76,14 @@ export default makeStyles((theme) => ({
     [theme.breakpoints.down("sm")]: {
       height: "35vmin",
     },
+  },
+  logoDiv: {
+    backgroundImage: `url("https://github.com/Niket-iiitu/NewsAI/blob/main/public/images/LogoWallpaper.jpg?raw=true")`,
+    backgroundSize: "cover",
+    borderRadius: "10px",
+    width: "90%",
+    alignItems: "center",
+    marginLeft: "5%",
+    marginRight: "5%",
   },
 }));
