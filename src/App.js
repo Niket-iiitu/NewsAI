@@ -36,7 +36,10 @@ const App = () => {
     <div>
       <h1
         className={classes.logoContainer}
-        style={{ backgroundImage: "url(/images/LogoWallpaper.jpg)" }}
+        style={{
+          backgroundImage:
+            "url(https://github.com/Niket-iiitu/NewsAI/blob/main/public/images/LogoWallpaper.jpg)",
+        }}
       >
         News AI
       </h1>
