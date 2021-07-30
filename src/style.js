@@ -65,7 +65,6 @@ export default makeStyles((theme) => ({
       flexDirection: "column-reverse",
       textAlign: "center",
     },
-    backgroundImage: `url(/images/LogoWallpaper.jpg)`,
     backgroundSize: "cover",
     color: "white",
     height: "20vh",
