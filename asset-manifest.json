@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/NewsAI/static/css/main.b61b6325.chunk.css",
-    "main.js": "/NewsAI/static/js/main.d168ed33.chunk.js",
-    "main.js.map": "/NewsAI/static/js/main.d168ed33.chunk.js.map",
+    "main.js": "/NewsAI/static/js/main.8a0f9bbe.chunk.js",
+    "main.js.map": "/NewsAI/static/js/main.8a0f9bbe.chunk.js.map",
     "runtime-main.js": "/NewsAI/static/js/runtime-main.32e7bfba.js",
     "runtime-main.js.map": "/NewsAI/static/js/runtime-main.32e7bfba.js.map",
-    "static/js/2.2c78589d.chunk.js": "/NewsAI/static/js/2.2c78589d.chunk.js",
-    "static/js/2.2c78589d.chunk.js.map": "/NewsAI/static/js/2.2c78589d.chunk.js.map",
+    "static/js/2.86bd3c26.chunk.js": "/NewsAI/static/js/2.86bd3c26.chunk.js",
+    "static/js/2.86bd3c26.chunk.js.map": "/NewsAI/static/js/2.86bd3c26.chunk.js.map",
     "index.html": "/NewsAI/index.html",
     "static/css/main.b61b6325.chunk.css.map": "/NewsAI/static/css/main.b61b6325.chunk.css.map",
-    "static/js/2.2c78589d.chunk.js.LICENSE.txt": "/NewsAI/static/js/2.2c78589d.chunk.js.LICENSE.txt"
+    "static/js/2.86bd3c26.chunk.js.LICENSE.txt": "/NewsAI/static/js/2.86bd3c26.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.32e7bfba.js",
-    "static/js/2.2c78589d.chunk.js",
+    "static/js/2.86bd3c26.chunk.js",
     "static/css/main.b61b6325.chunk.css",
-    "static/js/main.d168ed33.chunk.js"
+    "static/js/main.8a0f9bbe.chunk.js"
   ]
 }
